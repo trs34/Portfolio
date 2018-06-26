@@ -1,0 +1,33 @@
+.leftspace {
+	padding-left: 0px;
+}
+
+body {
+	font-family: "Arial",Arial,sans-seriff;
+	margin: 20px;
+
+}
+
+nav{
+	padding: 10px;
+	margin-bottom: 20px;
+}
+
+img{
+	border-radius:10%;
+}
+
+h1{
+	font-size:50px;
+	margin:5px;
+	color:#800020;
+}
+
+h3 {
+	color:pink;
+}
+
+a {
+	text-decoration: none;
+	padding:10px;
+}
