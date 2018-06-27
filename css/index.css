@@ -1,4 +1,13 @@
+.curveEdges{
+	border-radius:10%;
+	width:400px;
+}
 
+.TopNavBar{
+	background-color: mintcream;
+	border: 5px solid mintcream;
+	border-radius: 5px;
+}
 
 body {
 	font-family: 'Montserrat', sans-serif;
@@ -11,10 +20,7 @@ nav{
 	margin-bottom: 10px;
 }
 
-.curveEdges{
-	border-radius:10%;
-	width:400px;
-}
+
 
 h1{
 	font-size:50px;
@@ -36,4 +42,8 @@ a:link {
 
 a:hover {
 	color:pink;
+}
+
+a:visited{
+	color:navy;
 }
